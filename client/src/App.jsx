@@ -151,8 +151,7 @@ function App() {
     provider && loadProvider();
   }, [networkChanged, accountChanged]);
 
-  //0xAE008568BfA308766CfA7446BD54C056099aB10a
-  //0xc9fE022cE2910645F38791311ffaedaBedfDcaEc
+  
 
   return (
     <>
