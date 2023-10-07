@@ -44,7 +44,7 @@ function App() {
         const address = await signer.getAddress();
         console.log(address)
         setAccount(address);
-        let contractAddress = "0x5DC29e716f61982B9D86A309E05b6BF0B2fB0Eb2";
+        let contractAddress = "Adress contract ";
         let contractAbi = [
           {
             "inputs": [
